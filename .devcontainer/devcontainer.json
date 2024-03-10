@@ -1,4 +1,4 @@
 {
-  "image": "mobiledevops/flutter-sdk-image:3.16.3",
+  "image": "cirruslabs/flutter:latest",
   "forwardPorts": [3000]
 }

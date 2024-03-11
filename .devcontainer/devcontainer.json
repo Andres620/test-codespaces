@@ -1,6 +1,8 @@
 {
+  "build": {
+		"dockerfile": "Dockerfile"
+	},
   "name": "Flutter Development Environment",
-  "dockerFile": "Dockerfile",
   "forwardPorts": [3000], // Optional, adjust port based on your app
   "customizations": {
     "vscode": {

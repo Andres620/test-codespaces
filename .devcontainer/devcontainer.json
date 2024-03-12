@@ -4,6 +4,7 @@
   },
   "name": "Flutter Development Environment",
   "forwardPorts": [3000], // Optional, adjust port based on your app
+  "postAttachCommand": "/bin/bash .devcontainer/setup.sh",
   "customizations": {
     "vscode": {
       "extensions": [
